@@ -1,0 +1,53 @@
+.card-altura-fixa {
+  height: 100%;
+  padding: 20px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.grid-relatorios {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+  margin-top: 20px;
+  align-items: stretch;
+}
+
+.white-text {
+  color: white;
+}
+
+.titulo-relatorio {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 12px;
+  text-align: left;
+}
+
+.card-content {
+  text-align: left;
+  padding: 0;
+}
+
+.card-content ul {
+  padding-left: 20px;
+  margin: 0;
+  list-style-type: disc;
+}
+
+.card-content li {
+  margin-bottom: 6px;
+}
+
+.card-content strong {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+h5.center-align {
+  margin-bottom: 30px;
+}
