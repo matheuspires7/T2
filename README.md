@@ -1,6 +1,6 @@
 # 📘 T2
 
-Este repositório contém a atividade WB-2 desenvolvida com Node.js e TypeScript.
+Este repositório contém a atividade WB-2 desenvolvida com React, TypeScript e Node.js.
 
 ---
 
